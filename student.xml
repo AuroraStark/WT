@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE student [
+<!ELEMENT student (sno,sname,branch,city)>
+<!ELEMENT sno (#PCDATA)>
+<!ELEMENT sname (#PCDATA)>
+<!ELEMENT branch (#PCDATA)>
+<!ELEMENT city (#PCDATA)>
+]>
+<student>
+<sno>5F9</sno>
+<sname>XYZ</sname>
+<branch>CSE</branch>
+<city>GNT</city>
+</student>

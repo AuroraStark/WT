@@ -1,0 +1,5 @@
+<!ELEMENT student (sno,sname,branch,city)>
+<!ELEMENT sno (#PCDATA)>
+<!ELEMENT sname (#PCDATA)>
+<!ELEMENT branch (#PCDATA)>
+<!ELEMENT city (#PCDATA)>

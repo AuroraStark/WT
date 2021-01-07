@@ -1,0 +1,3 @@
+<!ELEMENT Todolist (task)*>
+<!ELEMENT task (#PCDATA)>
+<!ATTLIST task task_status (important|normal) #REQUIRED>

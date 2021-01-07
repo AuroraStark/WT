@@ -1,0 +1,4 @@
+<!ELEMENT discount (description,value)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT value (#PCDATA)>
+<!ATTLIST discount discount_range CDATA #REQUIRED>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE discount SYSTEM "discount.dtd">
+<discount discount_range="&lt;1000">
+<description><![CDATA[discount value for the amount <1000]]></description>
+<value>100</value>
+</discount>

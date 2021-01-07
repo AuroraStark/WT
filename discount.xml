@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE discount [
+<!ELEMENT discount (description,value)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT value (#PCDATA)>
+<!ATTLIST discount discount_range CDATA #REQUIRED>
+]>
+<discount discount_range="&lt;1000">
+<description><![CDATA[discount value for the amount <1000]]></description>
+<value>100</value>
+</discount>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE student SYSTEM "student.dtd">
+<student>
+<sno>5F9</sno>
+<sname>XYZ</sname>
+<branch>CSE</branch>
+<city>GNT</city>
+</student>

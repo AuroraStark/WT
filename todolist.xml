@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Todolist [
+<!ELEMENT Todolist (task)*>
+<!ELEMENT task (#PCDATA)>
+<!ATTLIST task task_status (important|normal) #REQUIRED>
+]>
+<Todolist>
+<task task_status="important">Taking the Break</task>
+<task task_status="normal"></task>
+</Todolist>
